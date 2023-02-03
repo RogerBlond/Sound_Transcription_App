@@ -11,7 +11,6 @@
     MODYFIED   (DD/MM/YYYY)
 		rfbom   19/10/2022 - created
 """
-#https://stackoverflow.com/questions/4122188/how-can-i-invoke-a-thread-multiple-times-in-python
 import speech_recognition as sr
 import threading
 import concurrent.futures
